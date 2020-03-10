@@ -1,0 +1,28 @@
+cases:
+- thematic
+- spatial
+- temporal
+- posessive
+- associative
+
+sdts:
+- sense #sensory-perception
+- sym #literary
+- temp #temporal
+- space #spatial
+- fash #fashion/clothing
+- anat #anatomy
+- comp #compositional/architechtural
+- soc #interpersonal-social
+- emote #emotions
+- tool #tools
+- mach #machines
+- know #knowledge
+- num #numbers
+- flora
+- fauna
+- shapes
+- furn #furniture
+- med #medicine
+- geom #shapes
+- mat #material

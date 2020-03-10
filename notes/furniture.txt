@@ -1,0 +1,84 @@
+# Toaq Furniture
+## Desc:
+- Toaq uses "fūa" for "__is an item of furniture"
+- Uses "fūa" in an affix-like manner to describe kinds of furniture ( chairs, beds, etc )
+## Examples:
+- kaifūa    desk    write furniture
+- nuofūa    bed     sleep furniture
+- tuifūa    chair/stool/seat/bench    sit furniture
+- toqfūa    table   board furniture
+
+# Ithkuil
+## Desc:
+- Root "-ÇT-" is used for "Fit/Hold/Contain As Internal-External Partition"
+-- Uses PSD and SSD to describe closets, booths, cells, houses, dividing panels, furniture serving as a divider of a room space, etc
+- Root: "-VL-" is used for "Contain/Hold/Contents"
+-- Broad PSD and SSD again for types of containers and their purposes: barrel/cask, vat/tub/basin, piece of furniture for containing ( ottoman, bookcase, etc ), case/trunk
+- Root "-MXh-" is used for "Horizontal Supporting Surface Against Gravity"
+-- "Table", "shelf", "floor", "ground", "firmament"
+- Many other roots for other kinds of surfaces by orientation; for shapes; and for anatomical positioning ( prone, reposed, upright, etc )
+
+# English Wikipedia Definition ( 02/29/2020 )
+## Desc:
+- Furniture refers to movable objects intended to support various human activities such as
+--- seating (e.g., chairs, stools, and sofas)
+--- eating (tables)
+--- lying
+--- sleeping (e.g., beds).
+--- entertainment
+--- storage
+- Furniture is also used to hold objects at a convenient height
+--- for work (as horizontal surfaces above the ground, such as tables and desks)
+--- or to store things (e.g., cupboards and shelves).
+- Furniture can be
+--- a product of design
+--- form of decorative art.
+--- serve a symbolic [purpose]
+--- religious purpose.
+- It can be made from many materials, including
+--- metal
+--- plastic
+--- and wood.
+- Furniture can be made using a variety of woodworking joints which often reflect the local culture.
+
+=======================================================
+# Potential Considerations
+## Schema for Considering Furniture ( note overlap w/ tools, machines, etc )
+- Material Composition ( Wooden, Plastic, Metal, etc )
+- Symbolic/Decorative/Religious Purpose ( Sex, Privacy, Fortune, Joy, Relief, Spirituality, etc )
+- Intended, Designed Usage ( Containing, Sleeping, Eating, Lying, Physically Support, Labor, etc )
+- General Affordances ( Horizontal Surface, Vertical Surface, Foldable/Collapsable, Discreetness, etc )
+
+## Interrelating, Contrasting, and Correlating Schema
+### Material Composition
+- Can be indicated on a separate SDT and then used a modifier. Said SDT likely will have a nominalizing form so that one can say "item that is made of material X"; though we could then modify some word for "furniture" with "item that is made of material X" to say "furniture [that is made of material X]".
+-- This approach seems more flexible to me.
+-- Pending other schema, might be nice sugar to allow simply "furniture made of X" built-into SDT, but i'm hesitant for rn.
+
+### Intended, Designed Usage
+- This is akin to tools & tech/machines.
+- Potentially tricky to disambiguate, but still meaningful.
+- Possible furniture words ppl may want to make could be helped here:
+-- bed, work table, stool, table-for-eating, chair, loveseat, couch, sofa, rocking chair, divan, cabinet, cupboard, mirror, dresser, amoire, etc
+- mixed thoughts....
+
+### General Affordances
+- Suppose we have the following main taxonomic approach:
+-- 1  General/Neutral
+-- 2  Horizontal Supporting Surface Against Gravity
+-- 3  Fit/Hold/Contain as Internal-External Partition
+-- 4  [MAYBE???]Container/Holder[MAYBE???]
+
+- Then we could have 2ndAry Inflection ( Vowel Infix ) to convey what we are appreciating of said Furniture
+--  a Symbolic/decorative
+--  i intended, designed Usage
+--  u special property(?)
+
+- So then we now could have:
+2.i.sleep = Horizontal/Supporting Surface Against Gravity Itended/Designed to Facilitate Sleeping
+3.i.privacy = Internal-External Partition designed to faciltiate privacy
+1.i.[] light-emittance - Lamp
+
+Curtains
+-> 3.i.Cloth
+->

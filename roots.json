@@ -1,0 +1,99 @@
+gloss: Eng-Gloss
+lit: Tentatively Used Lit Transcription
+prim: Primary, Most Expected to be used SDT(s)
+sec: Secondary, Incidental Expected(s)
+tert: Metaphorically/Tertiary Most Expected(s)
+
+{
+"gloss":"sleep/sleepy",
+"lit":"lul",
+"prim":["fash","emote","furn"],
+"sec":["anat","tools","mach","med"],
+"tert":["know","flora","fauna"]
+},{
+"gloss":"mirror/reflect",
+"lit":"mis",
+"prim":["furn","geom","tool"],
+"sec":["temp","space","mach"],
+"tert":["soc"]
+},{
+"gloss":"cloth/fabric",
+"lit":"nel",
+"prim":["furn","fash","mat"],
+"sec":["mach","tool"],
+"tert":[]
+},{
+"gloss":"privacy",
+"lit":"len",
+"prim":["fash","emote","furn","soc"],
+"sec":["tool","mach","sym","know"],
+"tert":[]
+},{
+"gloss":"plastic",
+"lit":"kar",
+"prim":["mat","furn","fash"],
+"sec":["mach","tool"],
+"tert":[]
+},{
+"gloss":"metal",
+"lit":"met",
+"prim":["mat","furn","fash"],
+"sec":["mach","tool"],
+"tert":[]
+},{
+"gloss":"wood",
+"lit":"",
+"prim":["mat","furn","fash","fauna"],
+"sec":["mach","tool"],
+"tert":[]
+},{
+"gloss":"effort/work/labor",
+"lit":"pul",
+"prim":["soc","furn","fash","temp","tool","mach"],
+"sec":["med"],
+"tert":["sym","know","anat"]
+},{
+"gloss":"",
+"lit":"",
+"prim":[],
+"sec":[],
+"tert":[]
+},{
+"gloss":"",
+"lit":"",
+"prim":[],
+"sec":[],
+"tert":[]
+},{
+"gloss":"",
+"lit":"",
+"prim":[],
+"sec":[],
+"tert":[]
+},{
+"gloss":"",
+"lit":"",
+"prim":[],
+"sec":[],
+"tert":[]
+},{
+"gloss":"",
+"lit":"",
+"prim":[],
+"sec":[],
+"tert":[]
+},
+
+{
+    "toaq": "fua",
+    "type": "predicate",
+    "english": "▯ is an item of furniture.",
+    "gloss": "furniture",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  }

@@ -1,0 +1,30 @@
+gloss: Eng-Gloss
+lit: Tentatively Used Lit Transcription
+prim: Primary, Most Expected to be used SDT(s)
+sec: Secondary, Incidental Expected(s)
+tert: Metaphorically/Tertiary Most Expected(s)
+
+{
+"gloss":"sleep/sleepy",
+"lit":"lul",
+"prim":[
+
+  ],
+
+}
+
+
+
+{
+    "toaq": "fua",
+    "type": "predicate",
+    "english": "▯ is an item of furniture.",
+    "gloss": "furniture",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  }
