@@ -1,0 +1,36 @@
+- 
+- Head Covering / Hat / Helmet
+- Jacket / Coat
+- Shirt / Blouse
+- Dress
+- Skirt / Kilt
+- Tunic
+- Sari / Sari-like Article of Clothing
+- Vest
+- Overcoat / Long Coat
+- Parka / Heavy Winter Coat
+- Sock
+- Tights / Leggings
+- Stocking / Hose
+- Shoe / Mocassin
+- Sandal
+- Boot
+- Slipper
+- Glove
+- Undergarment ( for the groin area )
+- Undergarment ( for the torso )
+- Brassiere
+- Apron
+- Collar
+- Scarf
+- Belt
+- Tie/Cravat
+- Over-the-shoulder sash
+- Waist Sash / Cummerbund
+- Necklace / Neck-Chain
+- Brooch / Pendant
+- Earring
+- Medallion
+- Cuff Links
+- The pin / tie clip
+- Button / Stud
