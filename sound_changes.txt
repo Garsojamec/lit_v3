@@ -1,0 +1,16 @@
+source_phoneme / target_phoneme / environment / example
+{ɾ,r} / ʎ / {i,j}_
+ʎ / ʒ / _{a,u}
+ʎ / j / _i  ##Inherently Captures _i ( what about [e]? )
+j / {ð,d͡ʒ} / V_V
+{ɾ,r}j  / j{ɾ,r}  / V_
+s / ʃ _{i,e}
+n / nʲ  / _i
+nʲ  / tʃ  / _i
+r /  l/  _Vl
+{ɾ,r} / n / _C
+
+
+#######
+C - Consonant
+V - Vowel
